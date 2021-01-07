@@ -22,6 +22,6 @@ after_failure:
 
 deploy:
   provider: heroku
-  api_key: $HEROKU_API
+  api_key: $HEROKU_API_KEY
   on:
     branch: main
