@@ -25,3 +25,4 @@ deploy:
   api_key: $HEROKU_API_KEY
   on:
     branch: main
+  app: integratieopdracht-de-bewel
